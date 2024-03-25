@@ -1,2 +1,14 @@
-matplotlib==3.6.0
-tensorflow==2.10.0
+# general purpose
+ipykernel
+
+# ML toolbox 
+numpy
+matplotlib
+seaborn
+pandas
+
+# Deep learning
+tensorflow == 2.10.0
+keras
+opencv-python
+torch
